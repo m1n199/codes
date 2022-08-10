@@ -1,0 +1,6 @@
+
+metsu	kira	metsu
+1	1
+1	1
+1	2	1
+x	2
